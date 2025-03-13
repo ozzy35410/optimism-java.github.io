@@ -198,7 +198,7 @@ Enables or disables the HTTP JSON-RPC service. The default is `false`.
 </TabItem>
 </Tabs>
 
-The port (TCP) on which HTTP JSON-RPC listens. The default is `8545. You must expose ports appropriately.
+The port (TCP) on which HTTP JSON-RPC listens. The default is `8545`. You must expose ports appropriately.
 
 ### `host-allowlist`
 
